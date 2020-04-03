@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NestRep2.1/1.0.0": {
+        "runtime": {
+          "NestRep2.1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NestRep2.1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

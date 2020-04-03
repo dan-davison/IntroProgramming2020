@@ -1,0 +1,22 @@
+E:\Documents\Dan's Documents\Swinburne\Back up\Intro Programming\IntroProg2020\NestRep2.4\bin\Debug\netcoreapp3.1\NestRep2.4.exe
+E:\Documents\Dan's Documents\Swinburne\Back up\Intro Programming\IntroProg2020\NestRep2.4\bin\Debug\netcoreapp3.1\NestRep2.4.deps.json
+E:\Documents\Dan's Documents\Swinburne\Back up\Intro Programming\IntroProg2020\NestRep2.4\bin\Debug\netcoreapp3.1\NestRep2.4.runtimeconfig.json
+E:\Documents\Dan's Documents\Swinburne\Back up\Intro Programming\IntroProg2020\NestRep2.4\bin\Debug\netcoreapp3.1\NestRep2.4.runtimeconfig.dev.json
+E:\Documents\Dan's Documents\Swinburne\Back up\Intro Programming\IntroProg2020\NestRep2.4\bin\Debug\netcoreapp3.1\NestRep2.4.dll
+E:\Documents\Dan's Documents\Swinburne\Back up\Intro Programming\IntroProg2020\NestRep2.4\bin\Debug\netcoreapp3.1\NestRep2.4.pdb
+E:\Documents\Dan's Documents\Swinburne\Back up\Intro Programming\IntroProg2020\NestRep2.4\obj\Debug\netcoreapp3.1\NestRep2.4.csprojAssemblyReference.cache
+E:\Documents\Dan's Documents\Swinburne\Back up\Intro Programming\IntroProg2020\NestRep2.4\obj\Debug\netcoreapp3.1\NestRep2.4.AssemblyInfoInputs.cache
+E:\Documents\Dan's Documents\Swinburne\Back up\Intro Programming\IntroProg2020\NestRep2.4\obj\Debug\netcoreapp3.1\NestRep2.4.AssemblyInfo.cs
+E:\Documents\Dan's Documents\Swinburne\Back up\Intro Programming\IntroProg2020\NestRep2.4\obj\Debug\netcoreapp3.1\NestRep2.4.dll
+E:\Documents\Dan's Documents\Swinburne\Back up\Intro Programming\IntroProg2020\NestRep2.4\obj\Debug\netcoreapp3.1\NestRep2.4.pdb
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\IntroProg2020\NestRep2.4\bin\Debug\netcoreapp3.1\NestRep2.4.exe
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\IntroProg2020\NestRep2.4\bin\Debug\netcoreapp3.1\NestRep2.4.deps.json
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\IntroProg2020\NestRep2.4\bin\Debug\netcoreapp3.1\NestRep2.4.runtimeconfig.json
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\IntroProg2020\NestRep2.4\bin\Debug\netcoreapp3.1\NestRep2.4.runtimeconfig.dev.json
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\IntroProg2020\NestRep2.4\bin\Debug\netcoreapp3.1\NestRep2.4.dll
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\IntroProg2020\NestRep2.4\bin\Debug\netcoreapp3.1\NestRep2.4.pdb
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\IntroProg2020\NestRep2.4\obj\Debug\netcoreapp3.1\NestRep2.4.csprojAssemblyReference.cache
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\IntroProg2020\NestRep2.4\obj\Debug\netcoreapp3.1\NestRep2.4.AssemblyInfoInputs.cache
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\IntroProg2020\NestRep2.4\obj\Debug\netcoreapp3.1\NestRep2.4.AssemblyInfo.cs
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\IntroProg2020\NestRep2.4\obj\Debug\netcoreapp3.1\NestRep2.4.dll
+E:\Documents\Dan's Documents\Swinburne\Cert IV Work\Intro Programming\IntroProg2020\NestRep2.4\obj\Debug\netcoreapp3.1\NestRep2.4.pdb
